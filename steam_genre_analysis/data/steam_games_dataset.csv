@@ -1,0 +1,11 @@
+game_id,name,developer,release_year,genre,price,rating,players_daily
+1,Counter-Strike: GO,Valve,2012,FPS,0.0,9.2,750000
+2,Dota 2,Valve,2013,MOBA,0.0,8.9,600000
+3,Elden Ring,FromSoftware,2022,RPG,59.99,9.5,450000
+4,Stardew Valley,ConcernedApe,2016,Simulation,14.99,9.3,100000
+5,Civilization VI,Firaxis Games,2016,Strategy,59.99,8.7,80000
+6,Apex Legends,Respawn Entertainment,2019,Battle Royale,0.0,8.5,500000
+7,Cyberpunk 2077,CD Projekt Red,2020,RPG,29.99,7.8,120000
+8,Football Manager 2024,Sports Interactive,2023,Simulation,49.99,9.0,130000
+9,Euro Truck Simulator 2,SCS Software,2012,Simulation,19.99,9.1,90000
+10,Half-Life: Alyx,Valve,2020,"VR, FPS",59.99,9.4,40000

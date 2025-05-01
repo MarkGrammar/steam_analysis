@@ -1,10 +1,10 @@
-# 🧪 Steam Games Analysis Projects
+# Steam Games Analysis Projects
 
 This repository contains two beginner-level data analysis projects using a sample Steam dataset. Both projects showcase end-to-end analysis using SQL, Python, and Tableau.
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. [Free vs Paid Game Analysis](steam_free_vs_paid/)
 Compare player behavior and user satisfaction between free and paid Steam games.
@@ -24,7 +24,7 @@ Explore the popularity and user ratings across different game genres.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 -MySQL Workbench
 -Python (pandas, matplotlib)
 -Tableau Public
